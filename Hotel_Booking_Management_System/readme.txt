@@ -30,4 +30,10 @@ Create your own User
 Admin
 user: hoteladmin
 pass: hotel
+sites:
+admin:
+http://localhost/Hotel_Booking_Management_System/admin
 
+hotel's user interface:
+http://localhost/Hotel_Booking_Management_System/
+http://localhost/Hotel_Booking_Management_System/index.php?page=list
