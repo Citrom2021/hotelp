@@ -28,8 +28,6 @@ FIRST Download
 Create your own User
 
 Admin
-user: admin
-pass: admin123
+user: hoteladmin
+pass: hotel
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
